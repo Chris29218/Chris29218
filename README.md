@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Chris29218
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Mail me at ab29218@gmail.com
 
 <!---
 Chris29218/Chris29218 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
