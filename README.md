@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abhishek
 - 👀 I’m interested in Development
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning React after completing Backend
 - 📫 Mail me at ab29218@gmail.com
 
 <!---
