@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abhishek
-- 👀 I’m interested in Development
+- 👀 I’m interested in DSA n Development
 - 🌱 Many more on the way yo...
 - 📫 Mail me at ab29218@gmail.com
 
